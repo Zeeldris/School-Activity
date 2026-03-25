@@ -23,35 +23,35 @@ let updateTimer;
 
 const music_list = [
 	{
-		img: 'images/me.jpg',
+		img: 'Images/me.jpg',
 		name: 'Stay',
 		artist: 'The Kid LAROI, Justin Bieber',
 		music: 'music/stay.mp3',
 		lyrics: 'lyrics',
 	},
 	{
-		img: './Images/me2.jpg',
+		img: 'Images/me2.jpg',
 		name: 'Sao paolo',
 		artist: 'The Weekend',
 		music: 'music/sao paolo.mp3',
 		lyrics: 'lyrics',
 	},
 	{
-		img: './Images/me3.jpg',
+		img: 'Images/me3.jpg',
 		name: 'Cry for me',
 		artist: 'The Weekend',
 		music: 'music/cryforme.mp3',
 		lyrics: 'lyrics',
 	},
 	{
-		img: './Images/rextine.jpg',
+		img: 'Images/rextine.jpg',
 		name: 'aphrodite',
 		artist: 'The Ridleys',
 		music: 'music/aphrodite.mp3',
 		lyrics: 'lyrics',
 	},
 	{
-		img: './Images/onins.jpg',
+		img: 'Images/onins.jpg',
 		name: 'Over You',
 		artist: 'Daughtry',
 		music: 'music/overyou.mp3',
